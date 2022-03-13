@@ -7,18 +7,18 @@ main()
 	switch(pick)
 	{
 		case 1:
-			printf("You picked pizza at the cost of 239");
+			printf("You picked pizza at the cost of 239.");
 			break;
 		case 2:
-			printf("You picked burger at the cost of 129");
+			printf("You picked burger at the cost of 129.");
 			break;
 		case 3:
-			printf("You picked pasta at the cost of 179");
+			printf("You picked pasta at the cost of 179.");
             break;
 		case 4:
-		    printf("You have picked french fries at the cost of 99");
+		    printf("You have picked french fries at the cost of 99.");
 		    break;
 		case 5:
-			printf("You have picked sandwich at the cost of 149");
+			printf("You have picked sandwich at the cost of 149.");
 	}
 }
